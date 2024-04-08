@@ -12,11 +12,3 @@ A Simple Bookmark Manager Landing Page developed using only HTML5, CSS3 and Basi
 1. Tabs change feature when clicked
 2. FAQ's Answer show when clicked
 3. Email Validation using Regex onkeyup
-
-#### Author
-
-Name: Juma Gobe
-
-Portfolio Page: [View](https://jumanjigobez.github.io/personal_portfolio/)
-
-Instagram Profile: [Follow @jumanjicasilas](https://instagram.com/jumanjicasilas)
